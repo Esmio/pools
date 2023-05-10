@@ -10,5 +10,9 @@
     "source.fixAll.eslint": true
   },
   "eslint.validate": ["javascript", "javascriptreact"],
-  "cSpell.words": ["chakra"]
+  "cSpell.words": [
+    "chakra"
+  ],
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "typescript.tsdk": "node_modules/typescript/lib"
 }

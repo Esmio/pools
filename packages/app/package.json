@@ -33,6 +33,7 @@
     "@keplr-wallet/types": "0.10.3",
     "@keplr-wallet/unit": "0.10.3",
     "@types/react": "^17.0.38",
+    "formik": "2.2.9",
     "framer-motion": "4.1.17",
     "mobx": "^6.1.7",
     "mobx-react-lite": "^3.2.0",
